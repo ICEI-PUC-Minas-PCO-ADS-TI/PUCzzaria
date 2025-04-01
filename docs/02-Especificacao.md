@@ -28,8 +28,13 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Cliente que deseja fazer um pedido  |Escolher os sabores e tamanhos disponíveis no cardápio           | Personalizar minha pizza conforme minha preferência              |
+|Cliente indeciso | Ver recomendações e combos sugeridos                | Escolher com mais facilidade sem precisar comparar manualmente |
+|Cliente autenticado| Concluir meu pedido de forma rápida e segura  | Receber minha pizza sem complicações|
+|Cliente que aguarda a entrega| Acompanhar o status do meu pedido em tempo real| Saber quando minha pizza chegará e me programar |
+|Cliente que já fez pedidos antes | Refazer um pedido anterior com alterações  | Pedir rapidamente algo que já gostei, mas ajustando detalhes se necessário |
+|Como um cliente frequente| Quero visualizar meu histórico de pedidos | Para refazer rapidamente meus pedidos favoritos sem precisar selecionar tudo novamente|
+|Como um cliente fazendo minha primeira compra | Quero avaliar meu pedido com nota e comentário | Para compartilhar minha experiência e ajudar a melhorar o serviço. |
 
 Apresente aqui as histórias de usuários que são relevantes para o projeto da sua solução. As histórias de usuários consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuários por contexto, para facilitar consultas recorrentes a esta parte do documento.
 
